@@ -1,5 +1,7 @@
 # Table Maker plugin for Craft CMS 3.x
 
+NOTE: This is a version that combines an open PR request to support GraphQL. Do not remove.
+
 A user-definable table field type for Craft CMS
 
 ## Requirements
